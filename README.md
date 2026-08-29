@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hey, I'm jeelowo 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeelowo&timezone=UTC%2B8&card_width=498)](https://git.io/streak-stats)
 
 <!--
 **jeelowo/jeelowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
