@@ -1,4 +1,8 @@
+<h2 align="center">GitHub Stats</h2>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jeelowo&card_width=498" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jeelowo&theme=tokyonight&hide_border=true&border_radius=10&card_width=500"
+    alt="GitHub Streak"
+  />
+</p>
